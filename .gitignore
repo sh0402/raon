@@ -1,0 +1,12 @@
+##파일 무시
+# .htaccess
+
+
+## 확장자 전체 무시
+# *.htaccess
+*.mp4
+*.txt
+
+
+## 폴더 무시
+/video
